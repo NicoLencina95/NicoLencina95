@@ -25,12 +25,12 @@ Hoy, traslado esa mentalidad analítica al sector corporativo, combinando la pre
 | Categoría | Habilidades |
 | :--- | :--- |
 | **Análisis & Modelado** | Data Analytics, Data Science, Estadística aplicada, Bioinformática, EDA. |
-| **Herramientas de BI** | ![Qlik](https://img.shields.io/badge/qlik-009845?style=for-the-badge&logo=qlik&logoColor=white)Qlik Sense, ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)Power BI, visualización de datos. |
-| **Programación** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)Python, ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)SQL, ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)Git/GitHub. |
-| **Gestión de Datos** | ETL, ![Snowflake](https://img.shields.io/badge/snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)Snowflake, ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)procesamiento de datos crudos. |
+| **Herramientas de BI** | Qlik Sense, Power BI, visualización de datos. |
+| **Programación** | Python, SQL,Git/GitHub. |
+| **Gestión de Datos** | ETL, Snowflake, procesamiento de datos crudos. |
 
 ---
-
+![Qlik](https://img.shields.io/badge/qlik-009845?style=for-the-badge&logo=qlik&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 > Me motiva el aprendizaje continuo y la aplicación de tecnología innovadora para resolver desafíos empresariales.
 
 ### 📫 ¿Hablamos sobre cómo puedo potenciar tu equipo de datos?
